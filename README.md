@@ -30,7 +30,8 @@ print(values)
 ```
 
 ## OUTPUT:
-![OUTPUT](./output.png)
+![OUTPUT](./output.png)![output](https://user-images.githubusercontent.com/93427086/144361533-eaf87c63-36d4-403f-9b3b-74bac2ed207b.png)
+
 
 ## RESULT:
 Thus the rank for the given matrix is successfully solved by  using a python program.
